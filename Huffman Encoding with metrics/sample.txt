@@ -1,0 +1,1 @@
+This is a sample passage to test variable coding technique. The aim of the program is to successfully encode the text in this passage and decode it at the reciever's end. Let's see how it goes.
