@@ -1,0 +1,1 @@
+This project is a collection of lossless text compression techniques implemented in Python as part of my Data compression course. The course covered fundamentals like entropy, compression efficiency, compression ratio, and other metrics for multiple popular techniques like Arithemetic Encoding, Huffman Encoding and Lempel-Ziv-Welch Technique. 
